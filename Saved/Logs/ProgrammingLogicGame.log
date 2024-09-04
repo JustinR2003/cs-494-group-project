@@ -1067,3 +1067,11 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2024.09.04-16.17.22:147][849]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
 [2024.09.04-16.17.22:152][849]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_7085C2CB42D7051902_1711151775
 [2024.09.04-16.17.22:152][849]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_7085C2CB42D7051902_1711151775
+[2024.09.04-16.18.20:144][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.04-16.18.20:226][149]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.005687 seconds
+[2024.09.04-16.18.20:227][149]LogSerialization: UsePackageTrailer: 'true'
+[2024.09.04-16.18.20:228][149]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/MF/RIIHCTP9SEHH6M8UI0EDPU
+[2024.09.04-16.18.20:228][149]LogSavePackage: Moving 'C:/Github/cs-494-group-project/Saved/RIIHCTP9SEHH6M8UI0EDPUE5FD956249A77798CFED25B0F0C44916.tmp' to 'C:/Github/cs-494-group-project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/MF/RIIHCTP9SEHH6M8UI0EDPU.uasset'
+[2024.09.04-16.18.20:447][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 303 ms
+[2024.09.04-16.18.20:452][149]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_7085C2CB42D7051902_1711151775
+[2024.09.04-16.18.20:452][149]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_7085C2CB42D7051902_1711151775
