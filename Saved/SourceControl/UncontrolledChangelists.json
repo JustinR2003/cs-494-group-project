@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/School/Fall 2024/CS-494/cs-494-group-project/Content/Levels/ORLevel_Joe.umap",
+				"E:/School/Fall 2024/CS-494/cs-494-group-project/Content/Levels/ORLevel_Joe_BuiltData.uasset",
 				"V:/CS-494 Group Orject/cs-494-group-project/Content/Levels/NANDLevel_Justin.umap",
 				"V:/CS-494 Group Orject/cs-494-group-project/Content/Maps/NANDLevel_Justin.umap",
 				"C:/Users/keith/OneDrive/Documents/Unreal Projects/ProgrammingLogicGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
