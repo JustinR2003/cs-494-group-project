@@ -6,6 +6,17 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"V:/CS-494 Group Orject/cs-494-group-project/Content/Levels/NANDLevel_Justin.umap",
+				"V:/CS-494 Group Orject/cs-494-group-project/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Hexagon.uasset",
+				"V:/CS-494 Group Orject/cs-494-group-project/Content/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_HexagonOrangeTilingChanged.uasset",
+				"V:/CS-494 Group Orject/cs-494-group-project/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Glowing_MultiColor.uasset",
+				"V:/CS-494 Group Orject/cs-494-group-project/Content/Characters/Kill/BP_KillVolume.uasset",
+				"V:/CS-494 Group Orject/cs-494-group-project/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"V:/CS-494 Group Orject/cs-494-group-project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"V:/CS-494 Group Orject/cs-494-group-project/Content/ThirdPerson/Blueprints/HealthWidget.uasset",
+				"V:/CS-494 Group Orject/cs-494-group-project/Content/Levels/NANDLevel_Justin_BuiltData.uasset",
+				"V:/CS-494 Group Orject/cs-494-group-project/Content/Characters/DeathSoundTesting.uasset",
+				"V:/CS-494 Group Orject/cs-494-group-project/Content/Characters/LaserBeamBP.uasset",
+				"V:/CS-494 Group Orject/cs-494-group-project/Content/Characters/HealingPlatformBP.uasset",
 				"V:/CS-494 Group Orject/cs-494-group-project/Content/Maps/NANDLevel_Justin.umap",
 				"C:/Users/keith/OneDrive/Documents/Unreal Projects/ProgrammingLogicGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
