@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"V:\\CS-494 Group Orject\\cs-494-group-project\\Source\\ProgrammingLogicGame\\ProgrammingLogicGame.Build.cs",
+		"V:\\CS-494 Group Orject\\cs-494-group-project\\Source\\ProgrammingLogicGame.Target.cs",
+		"V:\\CS-494 Group Orject\\cs-494-group-project\\Source\\ProgrammingLogicGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

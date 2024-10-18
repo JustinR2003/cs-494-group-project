@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProgrammingLogicGame",
+			"Path": "V:\\CS-494 Group Orject\\cs-494-group-project\\Source\\ProgrammingLogicGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProgrammingLogicGameEditor",
+			"Path": "V:\\CS-494 Group Orject\\cs-494-group-project\\Source\\ProgrammingLogicGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
