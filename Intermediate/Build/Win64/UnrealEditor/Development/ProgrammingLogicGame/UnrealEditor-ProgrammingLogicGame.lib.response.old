@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProgrammingLogicGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"V:\CS-494 Group Orject\cs-494-group-project\Intermediate\Build\Win64\ProgrammingLogicGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"V:\CS-494 Group Orject\cs-494-group-project\Intermediate\Build\Win64\UnrealEditor\Development\ProgrammingLogicGame\ProgrammingLogicGame.cpp.obj"
+"V:\CS-494 Group Orject\cs-494-group-project\Intermediate\Build\Win64\UnrealEditor\Development\ProgrammingLogicGame\Default.rc2.res"
+/OUT:"V:\CS-494 Group Orject\cs-494-group-project\Intermediate\Build\Win64\UnrealEditor\Development\ProgrammingLogicGame\UnrealEditor-ProgrammingLogicGame.lib"
