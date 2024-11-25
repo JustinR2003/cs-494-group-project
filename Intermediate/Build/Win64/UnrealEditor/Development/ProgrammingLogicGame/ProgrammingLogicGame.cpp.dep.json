@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\student\\downloads\\cs-494-group-project-justin\\cs-494-group-project-justin\\source\\programminglogicgame\\programminglogicgame.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\student\\downloads\\cs-494-group-project-justin\\cs-494-group-project-justin\\intermediate\\build\\win64\\programminglogicgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\student\\downloads\\cs-494-group-project-justin\\cs-494-group-project-justin\\intermediate\\build\\win64\\unrealeditor\\development\\programminglogicgame\\definitions.programminglogicgame.h",
+            "c:\\users\\student\\downloads\\cs-494-group-project-justin\\cs-494-group-project-justin\\source\\programminglogicgame\\programminglogicgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

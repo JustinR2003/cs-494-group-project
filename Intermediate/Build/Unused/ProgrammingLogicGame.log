@@ -1,0 +1,7 @@
+﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" ProgrammingLogicGameEditor Win64 Development -Project="V:\CS-494 Group Orject\cs-494-group-project\ProgrammingLogicGame.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\Justin\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (V:\CS-494 Group Orject\cs-494-group-project).
+  Creating makefile for ProgrammingLogicGameEditor (no existing makefile)
+  Unable to instantiate module 'SwarmInterface': Could not find NetFxSDK install dir; this will prevent SwarmInterface from installing.  Install a version of .NET Framework SDK at 4.6.0 or higher.
+  (referenced via Target -> Launch.Build.cs -> SessionServices.Build.cs -> Core.Build.cs -> Virtualization.Build.cs -> SourceControl.Build.cs -> RenderCore.Build.cs -> RHI.Build.cs -> D3D11RHI.Build.cs -> Engine.Build.cs -> UnrealEd.Build.cs)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command ""F:\Epic Games Games\UE_5.1\Engine\Build\BatchFiles\Build.bat" ProgrammingLogicGameEditor Win64 Development -Project="V:\CS-494 Group Orject\cs-494-group-project\ProgrammingLogicGame.uproject" -WaitMutex -FromMsBuild" exited with code 6.
